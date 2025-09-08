@@ -58,12 +58,9 @@ f) 14 cases (4%) were tied to mostly infectious cases like Ludwig angina and abs
 
 2) Treatment trends: Extraction (≈30%), scaling (≈29%) and referrals (13%) were the leading treatment, the high rate of extraction is not only due to late presentation as most patients only present only when their condition has become server but also due to financial constraint as most patients cannot afford other alternative like RCT, braces, crown and bridge, veneers  and also of lack necessary materials and instruments which forces the clinic to focus on curative rather than preventive care while scaling ranks second showing that gum related conditions are more common.
 
-3) Denture insight:
-A significant proportion of patients requested for denture (≥30%), with young adult and middle age patients needing partial denture while the elderly and senior’s full denture due to edentulism. The average time gap between impression date and denture fitting date was 2days with a minimum of 0 days and maximum of 31 days, this indicate that most denture are immediate denture as it reflects that most patients cannot tolerate saddle area for a long period as it affects aesthetics while delay create dissatisfaction.
+3) Denture insight: A significant proportion of patients requested for denture (≥30%), with young adult and middle age patients needing partial denture while the elderly and senior’s full denture due to edentulism. The average time gap between impression date and denture fitting date was 2days with a minimum of 0 days and maximum of 31 days, this indicate that most denture are immediate denture as it reflects that most patients cannot tolerate saddle area for a long period as it affects aesthetics while delay create dissatisfaction.
 
-4) Cost Insight
-
-5) Middle aged and seniors together contributes over 60-65% of total treatment cost mostly due to denture, while children and adolescent accounted for less than 15% reflecting cheaper extraction and filling for that age group. Male patients make up about 55-60% of high cases (fractures surgical care) and are significantly higher in number while females contributed around 40-45% in denture care. Dentures and fractures driving nearly 50% of expenses with infectious cases like Ludwig angina and abscess also raise cost due to intensive care needs while extraction and scaling dominates visits but add little.
+4) Cost Insight: Middle aged and seniors together contributes over 60-65% of total treatment cost mostly due to denture, while children and adolescent accounted for less than 15% reflecting cheaper extraction and filling for that age group. Male patients make up about 55-60% of high cases (fractures surgical care) and are significantly higher in number while females contributed around 40-45% in denture care. Dentures and fractures driving nearly 50% of expenses with infectious cases like Ludwig angina and abscess also raise cost due to intensive care needs while extraction and scaling dominates visits but add little.
 
 Time trends insight: The time trend reveals that visits spikes in the mid year(Q3) with an increase in denture cost in January and August, while other treatments dominate expenses throughout.  Indicating seasonal patients flow with denture as a recurring but secondary cost driver.
 
@@ -77,15 +74,15 @@ From the analysis several opportunities for improvement were identified. These r
 	
 a)	Promote early and preventive care: implements preventive oral health campaigns(outreach) as most patients only come to the clinic when their conditions is severe.
 
-b)	Cavity, calculus, periodontitis, gingivitis dominates more across all age group, oral health education which focuses more diets and hygiene education should be promoted.
+b)	Cavity, calculus, periodontitis and gingivitis dominates more across all age group, oral health education which focuses more diets and hygiene education should be promoted.
 
 c)	Strengthen follow-up system: Follow up visit were mostly linked to infectious cases (Ludwig angina, abscess) and jaw fracture, most patients rarely return. Create patient recall to encourage checkup and preventive care.
 
-d)	Diversify treatment beyond extraction: Extraction top the treatment type due financial barriers and lack of equipment to perform other form of treatment (RCT, crown and bridge, veneers, braces), therefore local conservative treatment should be promoted thereby reducing long term tooth loss and denture dependence.
+d)	Diversify treatment beyond extraction: Extraction top the treatment type due financial barriers and lack of equipment to perform other form of treatment (RCT, crown and bridge,     veneers, braces) therefore local conservative treatment should be promoted thereby reducing long term tooth loss and denture dependence.
 
 2.	Affordability and access
 
-a)	Most Patient bargain price and care cost are unstable. Standardize pricing by introducing tiered service packages.
+a)	Most Patient bargain price and care cost are unstable, standardize pricing by introducing tiered service packages.
 
 b)	Advocate for NGO support for high-cost treatment like Ludwig angina, full denture construction and jaw fracture.
 
