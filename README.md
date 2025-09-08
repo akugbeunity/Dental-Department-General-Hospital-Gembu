@@ -22,7 +22,7 @@ ABOUT THE DATASET
 
 •	Data source: 2020 patients record from Dental Department General Hospital Gembu.
 
-•	Key Fields: Demographics, Diagnosis, Treatment type, Admission required, treatment cost, denture request, patient’s satisfaction, type of denture, checkup, follow up checkup, date of    impression and date of denture fitting
+•	Key Fields: Demographics, Diagnosis, Treatment type, Admission required, treatment cost, denture request, patient’s satisfaction, type of denture, checkup, follow up checkup, date  	of impression and date of denture fitting
 
 •	Data size: 327 rows (patients visits)
 
@@ -62,9 +62,9 @@ f) 14 cases (4%) were tied to mostly infectious cases like Ludwig angina and abs
 
 4) Cost Insight: Middle aged and seniors together contributes over 60-65% of total treatment cost mostly due to denture, while children and adolescent accounted for less than 15% reflecting cheaper extraction and filling for that age group. Male patients make up about 55-60% of high cases (fractures surgical care) and are significantly higher in number while females contributed around 40-45% in denture care. Dentures and fractures driving nearly 50% of expenses with infectious cases like Ludwig angina and abscess also raise cost due to intensive care needs while extraction and scaling dominates visits but add little.
 
-Time trends insight: The time trend reveals that visits spikes in the mid year(Q3) with an increase in denture cost in January and August, while other treatments dominate expenses throughout.  Indicating seasonal patients flow with denture as a recurring but secondary cost driver.
+5) Time trends insight: The time trend reveals that visits spikes in the mid year(Q3) with an increase in denture cost in January and August, while other treatments dominate expenses 		throughout. Indicating seasonal patients flow with denture as a recurring but secondary cost driver.
 
-6) Satisfaction insight: Around 70%+ of patients gave positive rating (good, satisfied, very satisfied) showing a positive favorable outcome, while dissatisfaction or pending feedback was mostly tied to delay in denture fitting or unresolved conditions.
+6) Satisfaction insight: Around 70%+ of patients gave positive rating (good, satisfied, very satisfied) showing a positive favorable outcome, while dissatisfaction or pending feedback 	was mostly tied to delay in denture fitting or unresolved conditions.
 
 RECOMMENDATION
 
@@ -76,9 +76,9 @@ a)	Promote early and preventive care: implements preventive oral health campaign
 
 b)	Cavity, calculus, periodontitis and gingivitis dominates more across all age group, oral health education which focuses more diets and hygiene education should be promoted.
 
-c)	Strengthen follow-up system: Follow up visit were mostly linked to infectious cases (Ludwig angina, abscess) and jaw fracture, most patients rarely return. Create patient recall to encourage checkup and preventive care.
+c)	Strengthen follow-up system: Follow up visit were mostly linked to infectious cases (Ludwig angina, abscess) and jaw fracture, most patients rarely return. Create patient recall to 	encourage checkup and preventive care.
 
-d)	Diversify treatment beyond extraction: Extraction top the treatment type due financial barriers and lack of equipment to perform other form of treatment (RCT, crown and bridge,     veneers, braces) therefore local conservative treatment should be promoted thereby reducing long term tooth loss and denture dependence.
+d)	Diversify treatment beyond extraction: Extraction top the treatment type due financial barriers and lack of equipment to perform other form of treatment (RCT, crown and bridge,     	veneers, braces) therefore local conservative treatment should be promoted thereby reducing long term tooth loss and denture dependence.
 
 2.	Affordability and access
 
@@ -92,9 +92,9 @@ d)	Encourage flexible payment method to reduce delay in starting treatment.
 
 3.	Infrastructure and capacity building
 
-a)	Serve cases were referred out due to lack of equipment, department should advocate for investment in dental equipment (surgical kits, imaging tools etc.) for handling moderate advanced cases locally. 
+a)	Serve cases were referred out due to lack of equipment, department should advocate for investment in dental equipment (surgical kits, imaging tools etc.) for handling moderate 		advanced cases locally. 
 
-b)	Inconsistent power supply and financial constraint makes the clinic learn more on cold cure acrylic for denture construction limiting prosthetic quality, hospital should secure reliable power supply (generator, solar) to improve denture production from cold cure to heat cure.
+b)	Inconsistent power supply and financial constraint makes the clinic learn more on cold cure acrylic for denture construction limiting prosthetic quality, hospital should secure 		reliable power supply (generator, solar) to improve denture production from cold cure to heat cure.
 
 c)	Government should employ more staff to handle advanced cases locally reducing unnecessary referral.
 
